@@ -1,0 +1,68 @@
+/*
+ ================
+ = PLACES class =
+ ================
+ */
+section.places {
+    border: 0;
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+}
+
+/*
+ ===============
+ = h1 headings =
+ ===============
+ */
+section.places h1 {
+    font-size: 30px;
+}
+
+/*
+ ===============
+ = TITLE class =
+ ===============
+ */
+div.title {
+    margin-top: -5px;
+    margin-bottom: -20px;
+}
+
+/*
+ ==================
+ = ARTICLES class =
+ ==================
+ */
+div.articles {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/*
+ ================
+ = ARTICLE type =
+ ================
+ */
+.places article {
+    width: 390px;
+    margin: 20px;
+    padding: 20px;
+    border: solid #FF5A5F 1px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 30px;
+}
+
+/*
+ ===============
+ = h2 headings =
+ ===============
+ */
+article h2 {
+    font-size: 30px;
+    margin-top: -8px;
+    margin-bottom: -4px;
+}

@@ -1,0 +1,12 @@
+/*
+=================
+=   CONTAINER   =
+=================
+*/
+body div.container {
+    max-width: 1000px;   /* Sets the maximum width of the container to 1000px */
+    margin-top: 30px;    /* Adds a 30px margin to the top of the container */
+    margin-bottom: 30px; /* Adds a 30px margin to the bottom of the container */
+    margin-left: auto;   /* Centers the container horizontally */
+    margin-right: auto;  /* Centers the container horizontally */
+}
